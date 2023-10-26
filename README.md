@@ -1,8 +1,9 @@
+# Simple Content List React
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Repository ini merupakan sedikit perbaikan penulisan code pada tutorial react 
+[#5 Semua Tentang COMPONENT | Tutorial REACT "Paling Masuk Akal" untuk PEMULA 🤩🌐](https://www.youtube.com/watch?v=-9Z9a91vTLc&ab_channel=WebProgrammingUNPAS)
 
-Currently, two official plugins are available:
+Dimana tiap componentnya dipisahkan menjadi beberapa file.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Terdapat juga code yang di comment untuk menggunakan metode drilling.
